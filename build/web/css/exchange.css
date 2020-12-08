@@ -1,0 +1,30 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+    background-color: #65bab4;
+}
+
+.bg-dark {
+    background-color: #2b0ee3 !important;
+}
+
+.container {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.services .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.services h2 {
+    font-weight: 400;
+}
+
+.services .col-lg-4 p {
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+}
